@@ -1,0 +1,9 @@
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\bin\Debug\Crude in sql store procedure.exe.config
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\bin\Debug\Crude in sql store procedure.exe
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\bin\Debug\Crude in sql store procedure.pdb
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude_in_sql_store_procedure.Form1.resources
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude_in_sql_store_procedure.Properties.Resources.resources
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.csproj.GenerateResource.cache
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.csproj.CoreCompileInputs.cache
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.exe
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.pdb
