@@ -7,3 +7,4 @@ F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\
 F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.csproj.CoreCompileInputs.cache
 F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.exe
 F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.pdb
+F:\C# Programming\Crude in sql store procedure\Crude in sql store procedure\obj\Debug\Crude in sql store procedure.csproj.AssemblyReference.cache
